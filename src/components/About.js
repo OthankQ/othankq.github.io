@@ -74,7 +74,7 @@ const About = () => {
                   <h3>Servers & Database</h3>
                   <p>
                     By building multiple sites and apps, I gained experience in
-                    building back-end using Node.js and Mongo DB.
+                    building back-end using Node.js and Mongo DB. I also enjoy working with SQL.
                   </p>
                 </div>
               </div>
