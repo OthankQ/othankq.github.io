@@ -20,7 +20,7 @@ const Introduction = () => {
                         <p>
                           <a
                             className="btn btn-primary btn-learn"
-                            href="https://docs.google.com/document/d/18DI08m4V03rahOnlgwIStztfMWBMQ64spnoQc2Gtl70/edit?usp=sharing"
+                            href="https://docs.google.com/document/d/1kQBO49bQ2cjnhIhjbwGY6rrD5B0QHZcLTLDTzGAj-wk/edit?usp=sharing"
                             target="_blank">
                             View CV
                             <i className="icon-download4" />
