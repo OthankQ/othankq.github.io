@@ -22,28 +22,56 @@ const Timeline = () => {
                                     className="timeline-entry animate-box"
                                     data-animate-effect="fadeInLeft">
                                     <div className="timeline-entry-inner">
+                                        <div className="timeline-icon color-1">
+                                            <i className="icon-pen2" />
+                                        </div>
+                                        <div className="timeline-label">
+                                            <h2>
+                                                <a href="#">
+                                                    Web Developer Intern
+                                                </a>
+                                                <br />
+                                                <span>
+                                                    Stormfront Productions
+                                                </span>
+                                                <br />
+                                                <span>2020-</span>
+                                            </h2>
+                                            <p>
+                                                Implement and maintain features
+                                                in multiple production web apps.
+                                                My duty also includes creating
+                                                applications using Vue and
+                                                Laravel
+                                            </p>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article
+                                    className="timeline-entry animate-box"
+                                    data-animate-effect="fadeInLeft">
+                                    <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-2">
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
                                             <h2>
                                                 <a href="#">
-                                                    Teaching Assistant
+                                                    Assistant Web Developer
                                                 </a>
                                                 <br />
                                                 <span>
-                                                    Korean Naval Academy
+                                                    Susan Bulkeley Butler Center
+                                                    for Leadership Excellence
                                                 </span>
                                                 <br />
-                                                <span>2016-2018</span>
+                                                <span>2019-2020</span>
                                             </h2>
                                             <p>
-                                                I Taught English to midshipmen
-                                                at Korean Naval Academy during
-                                                my service in the Navy.
-                                                Reviewing and consulting
-                                                midshipmen teaching material was
-                                                also a part of my duties
+                                                Assisted maintaining and
+                                                updating center’s webpage
+                                                contents in overhauling the
+                                                website’s design
                                             </p>
                                         </div>
                                     </div>
