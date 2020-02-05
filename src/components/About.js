@@ -70,10 +70,10 @@ const About = () => {
                                     <i className="icon-phone3" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Web Development </h3>
+                                    <h3>Front-end</h3>
                                     <p>
-                                        I have a solid experience of building
-                                        websites and web apps using HTML, CSS,
+                                        I have solid experience in building
+                                        client-side products using HTML, CSS,
                                         JavaScript and frameworks such as React
                                         and Vue.
                                     </p>
@@ -86,12 +86,12 @@ const About = () => {
                                     <i className="icon-data" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Servers & Database</h3>
+                                    <h3>Back-end</h3>
                                     <p>
                                         By building multiple sites and apps, I
-                                        gained experience in building back-end
-                                        using Node.js and Mongo DB. I also enjoy
-                                        working with SQL.
+                                        gained experience in building the
+                                        back-end of web applications using PHP,
+                                        Node and SQL.
                                     </p>
                                 </div>
                             </div>
