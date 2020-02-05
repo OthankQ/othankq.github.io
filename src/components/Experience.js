@@ -96,7 +96,7 @@ const Timeline = () => {
                                                 <span>2016-2018</span>
                                             </h2>
                                             <p>
-                                                I Taught English to midshipmen
+                                                I taught English to midshipmen
                                                 at Korean Naval Academy during
                                                 my service in the Navy.
                                                 Reviewing and consulting
