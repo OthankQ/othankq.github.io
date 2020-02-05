@@ -35,7 +35,7 @@ const Timeline = () => {
                                                     Stormfront Productions
                                                 </span>
                                                 <br />
-                                                <span>2020-</span>
+                                                <span>2020-Present</span>
                                             </h2>
                                             <p>
                                                 Implement and maintain features

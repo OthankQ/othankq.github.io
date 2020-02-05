@@ -10,9 +10,11 @@ const Introduction = () => {
                 <div className="flexslider js-fullheight">
                     <ul className="slides">
                         <li
-                            style={{
-                                backgroundImage: 'url(images/img_bg.jpg)'
-                            }}>
+                            style={
+                                {
+                                    // backgroundImage: 'url(images/img_bg.jpg)'
+                                }
+                            }>
                             <div className="overlay" />
                             <div className="container-fluid">
                                 <div className="row">
