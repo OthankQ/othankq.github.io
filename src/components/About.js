@@ -73,9 +73,9 @@ const About = () => {
                                     <h3>Front-end</h3>
                                     <p>
                                         I have solid experience in building
-                                        client-side products using HTML, CSS,
-                                        JavaScript and frameworks such as React
-                                        and Vue.
+                                        client-side products using HTML, CSS and
+                                        JavaScript along with frameworks such as
+                                        React and Vue.
                                     </p>
                                 </div>
                             </div>
