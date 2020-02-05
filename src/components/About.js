@@ -38,7 +38,7 @@ const About = () => {
                                             recent technology used by the
                                             industry. Now my goal is to turn
                                             this passion into a career. I am
-                                            looking forward to gain new valuable
+                                            looking forward to gaining valuable
                                             experience while contributing to a
                                             team.{' '}
                                         </p>
