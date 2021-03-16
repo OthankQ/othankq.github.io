@@ -41,8 +41,7 @@ const Timeline = () => {
                                                 Implement and maintain features
                                                 in multiple production web apps.
                                                 My duty also includes creating
-                                                applications using Vue and
-                                                Laravel
+                                                applications using React and Vue.
                                             </p>
                                         </div>
                                     </div>
