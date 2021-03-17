@@ -12,7 +12,7 @@ const Introduction = () => {
                         <li
                             style={
                                 {
-                                    // backgroundImage: 'url(images/img_bg.jpg)'
+                                    backgroundImage: 'url(images/rally_dirt.jpg)',
                                 }
                             }>
                             <div className="overlay" />
@@ -21,14 +21,15 @@ const Introduction = () => {
                                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                         <div className="slider-text-inner js-fullheight">
                                             <div className="desc">
-                                                <h1>
+                                                <h1 style={{color: 'white'}}>
                                                     Hey there! <br />
                                                     I'm Ryan!
                                                 </h1>
                                                 <p>
                                                     <a
+                                                        style={{color: 'white', fontWeight: '800', border:'3px solid #fff'}}
                                                         className="btn btn-primary btn-learn"
-                                                        href="https://docs.google.com/document/d/1_pd73OpzX7jLI41JkcHU0xt9o9byxCuNNLo1pgxMwQs/edit?usp=sharing"
+                                                        href="https://docs.google.com/document/d/14vlS8heXuC6EJeIZcWszjnIDMOA4kIKEWr9NTJhj_B4/edit?usp=sharing"
                                                         target="_blank">
                                                         View CV
                                                         <i className="icon-download4" />
@@ -42,7 +43,7 @@ const Introduction = () => {
                         </li>
                         <li
                             style={{
-                                backgroundImage: 'url(images/img_bg.jpg)'
+                                backgroundImage: 'url(images/rally_mud.jpg)',
                             }}>
                             <div className="overlay" />
                             <div className="container-fluid">
@@ -50,12 +51,13 @@ const Introduction = () => {
                                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                         <div className="slider-text-inner">
                                             <div className="desc">
-                                                <h1>
+                                                <h1 style={{color: 'white'}}>
                                                     Checkout my
                                                     <br /> Projects!
                                                 </h1>
                                                 <p>
                                                     <a
+                                                        style={{color: 'white', fontWeight: '800', border:'3px solid #fff'}}
                                                         className="btn btn-primary btn-learn"
                                                         href="https://github.com/OthankQ"
                                                         target="_blank">

@@ -18,6 +18,33 @@ const Timeline = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="timeline-centered">
+                            <article
+                                    className="timeline-entry animate-box"
+                                    data-animate-effect="fadeInLeft">
+                                    <div className="timeline-entry-inner">
+                                        <div className="timeline-icon color-5">
+                                            <i className="icon-pen2" />
+                                        </div>
+                                        <div className="timeline-label">
+                                            <h2>
+                                                <a href="#">
+                                                    Software Developer
+                                                </a>
+                                                <br />
+                                                <span>
+                                                    USA Beauty
+                                                </span>
+                                                <br />
+                                                <span>2020 Jul - Present</span>
+                                            </h2>
+                                            <p>
+                                                Began developing front end for online market using Shopify platform.
+                                                I have also created an app to assist employees with end-of-day 
+                                                responsibilities using React Native.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </article>
                                 <article
                                     className="timeline-entry animate-box"
                                     data-animate-effect="fadeInLeft">
@@ -35,7 +62,7 @@ const Timeline = () => {
                                                     Stormfront Productions
                                                 </span>
                                                 <br />
-                                                <span>2020-Present</span>
+                                                <span>2020 Jan - 2021 May</span>
                                             </h2>
                                             <p>
                                                 Implement and maintain features
@@ -56,7 +83,7 @@ const Timeline = () => {
                                         <div className="timeline-label">
                                             <h2>
                                                 <a href="#">
-                                                    Assistant Web Developer
+                                                    Web Developer
                                                 </a>
                                                 <br />
                                                 <span>
@@ -64,7 +91,7 @@ const Timeline = () => {
                                                     for Leadership Excellence
                                                 </span>
                                                 <br />
-                                                <span>2019-2020</span>
+                                                <span>2019 Oct - 2020 Dec </span>
                                             </h2>
                                             <p>
                                                 Assisted maintaining and
@@ -92,7 +119,7 @@ const Timeline = () => {
                                                     Korean Naval Academy
                                                 </span>
                                                 <br />
-                                                <span>2016-2018</span>
+                                                <span>2016 Aug - 2018 Jul</span>
                                             </h2>
                                             <p>
                                                 I taught English to midshipmen
@@ -120,7 +147,7 @@ const Timeline = () => {
                                                     Korean Naval Academy
                                                 </span>
                                                 <br />
-                                                <span>2016-2018</span>
+                                                <span>2016 Aug - 2018 Jul</span>
                                             </h2>
                                             <p>
                                                 Assisting in 2017 RIMPAC
@@ -156,7 +183,7 @@ const Timeline = () => {
                                                 <br />
                                                 <span>Texas J&B</span>
                                                 <br />
-                                                <span>2011-2013</span>
+                                                <span>2011 May -2013 Apr </span>
                                             </h2>
                                             <p>
                                                 My main duty as a web content

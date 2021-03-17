@@ -19,28 +19,24 @@ const About = () => {
                                             Who Am I?
                                         </h2>
                                         <p>
-                                            I am a Web Programming and Design
-                                            student from Purdue University with
-                                            CGT as my major. New computer and
-                                            web technologies are my passion and
-                                            I am always looking for new
-                                            opportunities and ideas I can learn
-                                            from!
+                                            What's with the car photos you ask? 
+                                            That is because rally racing is a great passion of mine!
+                                            I love watching the rally drivers fearlessly
+                                            fly through rough terrains and leave everyone and
+                                            everything in the dust. The way the rally drivers adapt 
+                                            to a whole new environment
+                                            every race has always inspired me. New computer and
+                                            web technologies keeps launching left and right but like the
+                                            drivers, I have always looked to learn, adapt and use them to my advantage!
                                         </p>
                                         <p>
-                                            After discovering my passion for
-                                            programming and web development, I
-                                            couldn't get enough of it. I made
-                                            apps with various functionality
-                                            using vanilla JavaScript, React,
-                                            Redux and Express using Node. It has
-                                            helped me get familiar with the most
-                                            recent technology used by the
-                                            industry. Now my goal is to turn
-                                            this passion into a career. I am
-                                            looking forward to gaining valuable
-                                            experience while contributing to a
-                                            team.{' '}
+                                            Much like rallying, software development requires
+                                            working in a fast paced environment. As a developer,
+                                            I thrive in a workplace in which the whole team races against the clock
+                                            but at the same time, where individuals can freely express their 
+                                            creativity. If you are looking for a developer who is quick on their
+                                            feet but who can also keep calm in a clutch situations, you've come to
+                                            the right place.{' '}
                                         </p>
                                     </div>
                                 </div>
@@ -91,7 +87,7 @@ const About = () => {
                                         By building multiple sites and apps, I
                                         gained experience in building the
                                         back-end of web applications using PHP,
-                                        Node and SQL.
+                                        Django and SQL.
                                     </p>
                                 </div>
                             </div>
@@ -102,7 +98,7 @@ const About = () => {
                                     <i className="icon-bulb" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Multilingual</h3>
+                                    <h3>Data Visualization</h3>
                                     <p>
                                         I'm bilingual in English and Korean,
                                         giving me the ability to work almost
