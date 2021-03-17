@@ -100,10 +100,10 @@ const About = () => {
                                 <div className="desc">
                                     <h3>Data Visualization</h3>
                                     <p>
-                                        I'm bilingual in English and Korean,
-                                        giving me the ability to work almost
-                                        anywhere around the world. Japanese is
-                                        also among my expertise!
+                                        Through projects, I have learned how to gather, clean and 
+                                        visualize meaningful data as well as visualizing that data to
+                                        draw insights.
+
                                     </p>
                                 </div>
                             </div>

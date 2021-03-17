@@ -22,7 +22,7 @@ export class Sidebar extends Component {
                             <div
                                 className="author-img"
                                 style={{
-                                    backgroundImage: 'url(images/profile.jpg)'
+                                    backgroundImage: 'url(public/images/profile.jpg)'
                                 }}
                             />
                             <h1 id="colorlib-logo">
