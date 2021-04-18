@@ -29,7 +29,7 @@ const Introduction = () => {
                                                     <a
                                                         style={{color: 'white', fontWeight: '800', border:'3px solid #fff'}}
                                                         className="btn btn-primary btn-learn"
-                                                        href="https://docs.google.com/document/d/14vlS8heXuC6EJeIZcWszjnIDMOA4kIKEWr9NTJhj_B4/edit?usp=sharing"
+                                                        href="https://drive.google.com/file/d/17OqEWKKCMEobQCxV1MnHcXOqMSUbUlbH/view?usp=sharing"
                                                         target="_blank">
                                                         View CV
                                                         <i className="icon-download4" />
